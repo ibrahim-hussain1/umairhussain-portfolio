@@ -87,12 +87,11 @@ section {
     position: relative;
     min-height: 100vh;
     width: 100%;
-    background: url(img/background.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
 }
 
 .hero-text h3 {
@@ -468,9 +467,9 @@ span {
     .right-contact{
         margin-top: 10px;
     }
-    .footer{
-        /* height: 30vh; */
-    }
+    /* .footer{
+        height: 30vh;
+    } */
 }
 @media (max-width:800px){
     #menu-icon{
