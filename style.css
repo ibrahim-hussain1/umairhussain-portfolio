@@ -43,9 +43,15 @@ header {
     transition: all ease 0.50s;
 }
 
-.logo img {
+/* .logo img {
     width: 100%;
     height: auto;
+} */
+
+.logo h1{
+    color: var(--main-color);
+    font-weight: 800;
+    font-size: 2.5rem;
 }
 
 .navlist {
